@@ -1,0 +1,15 @@
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\bin\Debug\net8.0\Vehiculos3.exe
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\bin\Debug\net8.0\Vehiculos3.deps.json
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\bin\Debug\net8.0\Vehiculos3.runtimeconfig.json
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\bin\Debug\net8.0\Vehiculos3.dll
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\bin\Debug\net8.0\Vehiculos3.pdb
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.AssemblyInfoInputs.cache
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.AssemblyInfo.cs
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.sourcelink.json
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.dll
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\refint\Vehiculos3.dll
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.pdb
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\Vehiculos3.genruntimeconfig.cache
+C:\Users\salak301\Desktop\Jose_Arboleda_Vehiculos\Vehiculos3\obj\Debug\net8.0\ref\Vehiculos3.dll
